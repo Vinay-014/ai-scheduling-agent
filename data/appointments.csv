@@ -1,0 +1,10 @@
+appointment_id,patient_id,doctor,location,time,new_patient,status
+2b795b43,63.0,Dr. Priya Rao,MG Road Clinic,2025-09-06 12:36,True,
+c5f4a77c,64.0,Dr. Priya Rao,MG Road Clinic,2025-09-06 12:47,True,
+1a510ec9,65.0,Dr. Priya Rao,MG Road Clinic,2025-09-06 13:00,True,
+4ea8e72f,67.0,Dr. Priya Rao,MG Road Clinic,2025-09-06 14:33,False,scheduled
+8bb47bd3,68.0,,MG Road Clinic,2025-09-06 14:34,True,scheduled
+1748a7f9,67.0,Dr. Priya Rao,MG Road Clinic,2025-09-06 14:38,False,scheduled
+819f0c23,67.0,Dr. Priya Rao,MG Road Clinic,2025-09-06 14:57,False,scheduled
+1ca5fe38,67.0,Dr. Priya Rao,MG Road Clinic,2025-09-06 15:27,False,scheduled
+d3e68bde,67.0,Dr. Priya Rao,MG Road Clinic,2025-09-06 15:40,False,scheduled

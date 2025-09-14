@@ -1,0 +1,2 @@
+Appt {status}: {date} {time} with {doctor} at {location}. Duration {duration}m.
+Forms: reply YES when done. Reply C to cancel (give reason).

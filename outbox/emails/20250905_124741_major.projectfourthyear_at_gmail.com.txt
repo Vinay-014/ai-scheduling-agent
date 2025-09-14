@@ -1,0 +1,6 @@
+TO: major.projectfourthyear@gmail.com
+SUBJECT: Patient Intake Form
+
+Please fill the attached intake form before your appointment.
+
+[ATTACHMENT: intake_form.pdf]

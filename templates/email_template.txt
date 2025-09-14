@@ -1,0 +1,10 @@
+Subject: Appointment {status} - {date} {time} with {doctor}
+
+Hi {name},
+
+Your appointment is {status_lower} for {date} at {time} with {doctor} at {location}.
+Duration: {duration} minutes.
+Please find attached/linked the intake form. Reply 'YES' after you fill it, or click the forms link in the portal.
+
+Thanks,
+Clinic Admin Bot

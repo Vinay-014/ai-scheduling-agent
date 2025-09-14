@@ -1,0 +1,6 @@
+TO: 
+SUBJECT: Patient Intake Forms
+
+Please fill the attached intake form before your visit.
+
+[ATTACHMENT: intake_form.pdf]

@@ -1,0 +1,9 @@
+PATIENT INTAKE FORM (Sample)
+1. Full Name:
+2. Date of Birth:
+3. Address:
+4. Current Medications:
+5. Allergies:
+6. Reason for Visit:
+7. Insurance Carrier / Member ID / Group ID:
+(Sign and bring this on your visit.)

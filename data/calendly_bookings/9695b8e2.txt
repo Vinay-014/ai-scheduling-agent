@@ -1,0 +1,13 @@
+{
+  "appointment_id": "9695b8e2",
+  "patient_id": "66",
+  "doctor_name": "Dr. Priya Rao",
+  "location": "MG Road Clinic",
+  "date": "2025-09-06",
+  "time": "13:34",
+  "new_patient": true,
+  "forms_filled": false,
+  "status": "scheduled",
+  "contact_email": "harvardbruce1011@gmail.com",
+  "contact_phone": "6361006588"
+}

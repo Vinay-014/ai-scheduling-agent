@@ -1,0 +1,16 @@
+TO: major.projectfourthyear@gmail.com
+SUBJECT: Appointment CONFIRMED: 2025-09-03 10:00
+
+Hello Vladimir P,
+
+Your appointment is confirmed.
+Date: 2025-09-03
+Time: 10:00
+Doctor: Dr. Priya Rao
+Location: MG Road Clinic
+Duration: 60 minutes
+
+Thanks,
+Clinic
+
+[ATTACHMENT: intake_form.pdf]

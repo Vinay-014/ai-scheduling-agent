@@ -2,7 +2,6 @@
 
 A streamlined **AI-driven scheduling system** designed to automate patient intake, appointment booking, reminders, and administrative reporting. Built with **Streamlit, Python, and workflow automation agents**, this project demonstrates an end-to-end healthcare scheduling solution with real-time email/SMS notifications.  
 
----
 
 ## 🚀 Features  
 
@@ -13,7 +12,6 @@ A streamlined **AI-driven scheduling system** designed to automate patient intak
 - **Reminder System** – Sends SMS/Email reminders at predefined intervals.  
 - **Admin Reporting** – Generates Excel reports for admin review.  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -24,7 +22,6 @@ A streamlined **AI-driven scheduling system** designed to automate patient intak
 - **SMS Service**: Simulated via `sms_utils`  
 - **Libraries**: Pandas, UUID, Datetime, OpenPyXL  
 
----
 
 ## ⚙️ Installation & Setup  
 
@@ -50,9 +47,13 @@ A streamlined **AI-driven scheduling system** designed to automate patient intak
 ## 📸 Workflow Preview
 
 Step 1 – Patient Greeting & Intake
+
 Step 2 – Insurance Collection
+
 Step 3 – Appointment Confirmation + PDF Email
+
 Step 4 – Automated Reminders (Email + SMS)
+
 Step 5 – Admin Reports
 
 AI Scheduling Agent (MVP-1). Run python main.py for CLI workflow preview

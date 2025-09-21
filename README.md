@@ -2,7 +2,7 @@
 
 A streamlined **AI-driven scheduling system** designed to automate patient intake, appointment booking, reminders, and administrative reporting. Built with **Streamlit, Python, and workflow automation agents**, this project demonstrates an end-to-end healthcare scheduling solution with real-time email/SMS notifications.
 
-![Demo](https://github.com/Vinay-014/Smart-Loan-Recovery-System-/blob/main/Smart%20Loan%20Recovery%20System%20and%201%20more%20page%20-%20Personal%20-%20Microsoft_%20Edge%202025-09-08%2011-46-27%20(1).gif)  
+![Demo](https://github.com/Vinay-014/ai-scheduling-agent/blob/main/Screen%20Recording%202025-09-21%20111113.mp4)  
 
 
 ## 🚀 Features  

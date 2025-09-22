@@ -2,7 +2,7 @@
 
 A streamlined **AI-driven scheduling system** designed to automate patient intake, appointment booking, reminders, and administrative reporting. Built with **Streamlit, Python, and workflow automation agents**, this project demonstrates an end-to-end healthcare scheduling solution with real-time email/SMS notifications.
 
-![Demo](https://github.com/Vinay-014/ai-scheduling-agent/blob/main/Screen%20Recording%202025-09-21%20111113.mp4)  
+![Demo](https://github.com/Vinay-014/ai-scheduling-agent/blob/main/Demo.gif)  
 
 
 ## 🚀 Features  

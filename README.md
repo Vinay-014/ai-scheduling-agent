@@ -8,7 +8,7 @@ A streamlined **AI-driven scheduling system** designed to automate patient intak
 ## 🚀 Features  
 
 - **Patient Greeting & Intake** – Collects patient details (new/returning detection).  
-- **Insurance Collection** – Stores carrier, member ID, and group ID.  
+- **Insurance Collection** – Stores carrier, member ID and group ID.  
 - **Appointment Scheduling & Confirmation** – Generates appointment ID and sends confirmation via email.  
 - **Form Handling** – Attaches patient intake form (PDF) to email.  
 - **Reminder System** – Sends SMS/Email reminders at predefined intervals.  

@@ -1,11 +1,11 @@
-# 🩺 AI-Powered Medical Appointment Scheduling Agent  
+#  AI-Powered Medical Appointment Scheduling Agent  
 
 A streamlined **AI-driven scheduling system** designed to automate patient intake, appointment booking, reminders, and administrative reporting. Built with **Streamlit, Python, and workflow automation agents**, this project demonstrates an end-to-end healthcare scheduling solution with real-time email/SMS notifications.
 
 ![Demo](https://github.com/Vinay-014/ai-scheduling-agent/blob/main/Demo.gif)  
 
 
-## 🚀 Features  
+##  Features  
 
 - **Patient Greeting & Intake** – Collects patient details (new/returning detection).  
 - **Insurance Collection** – Stores carrier, member ID and group ID.  
@@ -15,7 +15,7 @@ A streamlined **AI-driven scheduling system** designed to automate patient intak
 - **Admin Reporting** – Generates Excel reports for admin review.  
 
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 - **Frontend/UI**: Streamlit  
 - **Backend/Workflow**: Python  
@@ -25,7 +25,7 @@ A streamlined **AI-driven scheduling system** designed to automate patient intak
 - **Libraries**: Pandas, UUID, Datetime, OpenPyXL  
 
 
-## ⚙️ Installation & Setup  
+##  Installation & Setup  
 
 1. Clone the repository:  
    ```bash
@@ -46,7 +46,7 @@ A streamlined **AI-driven scheduling system** designed to automate patient intak
    streamlit run ui/app.py
 
 
-## 📸 Workflow Preview
+##  Workflow Preview
 
 Step 1 – Patient Greeting & Intake
 
